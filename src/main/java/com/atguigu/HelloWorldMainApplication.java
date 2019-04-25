@@ -18,6 +18,6 @@ public class HelloWorldMainApplication {
 
         //String应用启动起来
         SpringApplication.run(HelloWorldMainApplication.class, args);
-
+        System.out.println("HelloWorld");
     }
 }
